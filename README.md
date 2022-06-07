@@ -12,7 +12,7 @@ Overall the association between estimated and observed age of onset is fairly go
 
 
 **Next I grouped the participants by genetic mutation. There are 3 main genetic mutations which cause FTD. You can see that the association varies by gene.**
-C9orf72 has the best association, GRN the worst. MAPT falls in between (this group is limited by the small sample size - MAPT is the least common of the three mutations)
+C9orf72 has the best association, GRN the worst. MAPT falls in between (this group is limited by the small sample size - MAPT is the least common of the three mutations).
 
 ![Histograms and scatterplots of symptomatic participants by gene](/eyo_gene.png)
 
